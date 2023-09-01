@@ -1,0 +1,4 @@
+# AI-Ethics
+HERMAN CAPPELEN AND JOSH DEVER
+
+MAKING AI INTELLIGIBLE Philosophical Foundations
